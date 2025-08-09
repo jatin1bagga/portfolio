@@ -30,7 +30,7 @@ export default function Home() {
       {/* ===== NAVBAR ===== */}
       <header className={`fixed top-0 left-0 w-full z-50 shadow-md ${darkMode ? "bg-gray-800" : "bg-gray-200"} transition`}>
         <nav className="max-w-6xl mx-auto flex justify-between items-center p-4">
-          <h1 className="text-xl font-bold">Jatin's Portfolio</h1>
+          <h1 className="text-xl font-bold">Jatin&apos;s Portfolio</h1>
           <div className="flex items-center gap-6">
             {["home", "projects", "skills", "contact"].map((section) => (
               <a
