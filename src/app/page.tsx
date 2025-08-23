@@ -149,9 +149,9 @@ export default function Home() {
       <section id="contact" className="p-6 max-w-6xl mx-auto text-center pt-20">
         <h2 className="text-3xl font-semibold mb-6 border-b border-gray-700 pb-2">Contact Me</h2>
         <div className="flex justify-center gap-6 text-2xl">
-          <a href="mailto:jatinbagga@example.com" className="hover:text-blue-400 transition"><FaEnvelope /></a>
+          <a href="mailto:aloc1345@gmail.com" className="hover:text-blue-400 transition"><FaEnvelope /></a>
           <a href="https://github.com/jatin1bagga" className="hover:text-blue-400 transition"><FaGithub /></a>
-          <a href="https://linkedin.com/in/jatinbagga" className="hover:text-blue-400 transition"><FaLinkedin /></a>
+          <a href="https://www.linkedin.com/in/jatin-bagga-b726011a7/" className="hover:text-blue-400 transition"><FaLinkedin /></a>
         </div>
       </section>
 
